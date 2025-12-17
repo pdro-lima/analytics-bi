@@ -10,22 +10,14 @@ O objetivo deste projeto foi aplicar conceitos práticos de **BI e Analytics**, 
 
 ## 🛠️ Tecnologias e Ferramentas
 
+- **Python** — Análise exploratória dos dados
+- **DAX** — Criação de métricas e indicadores
 - **Power BI** — Visualização e análise de dados
 - **Power Query** — Limpeza e transformação dos dados
-- **DAX** — Criação de métricas e indicadores
-- **Python** — Análise exploratória dos dados
 - **Git & GitHub** — Versionamento e documentação
 
----
 
-## 📈 Dashboard Interativo
-
-**Clique na imagem abaixo para acessar o dashboard interativo:**
-
-[![Dashboard Power BI - Visão Geral](dash/dashboard-visao-geral.png)](https://app.powerbi.com/view?r=eyJrIjoiODU2ZmU1NmItNGE4NC00MGI1LTgxMzYtNDUwOGZlNTFmNDQ2IiwidCI6IjA2MjAxYjM4LWEwY2QtNGY5My1iMGZhLWJjMGE5YTUyYzQ3OSJ9)
-
-
-## 📑 Estrutura Analítica do Dashboard
+## 📑 Estrutura Analítica
 
 O dashboard foi organizado em **duas abas principais**, cada uma com um objetivo analítico específico:
 
@@ -42,9 +34,20 @@ O dashboard foi organizado em **duas abas principais**, cada uma com um objetivo
 🎯 **Objetivo:** fornecer uma leitura rápida e executiva dos dados.
 
 
+---
+
+## 📈 Dashboard
+
+**Clique na imagem abaixo para acessar o dashboard:**
+
+[![Dashboard Power BI - Visão Geral](dash/dashboard-visao-geral.png)](https://app.powerbi.com/view?r=eyJrIjoiODU2ZmU1NmItNGE4NC00MGI1LTgxMzYtNDUwOGZlNTFmNDQ2IiwidCI6IjA2MjAxYjM4LWEwY2QtNGY5My1iMGZhLWJjMGE5YTUyYzQ3OSJ9)
+
+---
+
+
 ## 🔎 Tratamento de Dados
 
-O projeto inclui um **notebook em Python**, utilizado como etapa de **preparação dos dados**.
+O projeto inclui um **notebook em Python**, utilizado como etapa de **tratamento e normalização dos dados**.
 
 Principais atividades:
 - Carregamento e entendimento da base de dados
@@ -57,7 +60,7 @@ Biblioteca utilizada: pandas
 
 ## 🔄 Pipeline de Dados
 
-O fluxo de trabalho do projeto segue um pipeline simples e eficiente de **Analytics & BI**:
+O fluxo de trabalho do projeto segue um pipeline da seguinte maneira:
 
 ```text
 Dados Brutos
