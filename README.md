@@ -1,5 +1,3 @@
-# 📊 Analytics & Business Intelligence
-
 ## 🎯 Contexto e Objetivo
 
 O objetivo deste projeto foi aplicar conceitos práticos de **BI e Analytics**, transformando dados brutos em **informações estratégicas**, por meio de:
