@@ -1,4 +1,4 @@
-## 🎯 Contexto e Objetivo
+## Contexto e Objetivo
 
 O objetivo deste projeto foi aplicar conceitos práticos de **BI e Analytics**, transformando dados brutos em **informações estratégicas**, por meio de:
 
@@ -8,7 +8,7 @@ O objetivo deste projeto foi aplicar conceitos práticos de **BI e Analytics**, 
 - Storytelling com dados e boas práticas de visualização
 
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 - **Python** — Análise exploratória dos dados
 - **DAX** — Criação de métricas e indicadores
@@ -17,12 +17,14 @@ O objetivo deste projeto foi aplicar conceitos práticos de **BI e Analytics**, 
 - **Git & GitHub** — Versionamento e documentação
 
 
-## 📑 Estrutura Analítica
+## Estrutura Analítica
 
-O dashboard foi organizado em **duas abas principais**, cada uma com um objetivo analítico específico:
+O dashboard foi organizado em **duas visões principais**:
 
-#### 💵 Aba 1 — Visão de Lucratividade por Serviços/Produtos/Regiões de mercado
-#### 🚚 Aba 2 — Visão de Performance de Entrega por Modalidade e Região de mercado
+#### Aba 1 — Visão de Lucratividade por Serviços/Produtos/Regiões de mercado
+#### Aba 2 — Visão de Performance de Entrega por Modalidade e Região de mercado
+
+Os tópicos principais de análise foram: 
 
 - Indicadores-chave (KPIs)
 - Visão consolidada do cenário analisado
@@ -30,8 +32,6 @@ O dashboard foi organizado em **duas abas principais**, cada uma com um objetivo
 - Filtros para exploração dinâmica
 - Identificação de padrões e tendências
 - Segmentações e recortes específicos
-
-🎯 **Objetivo:** fornecer uma leitura rápida e executiva dos dados.
 
 
 ---
@@ -45,7 +45,7 @@ O dashboard foi organizado em **duas abas principais**, cada uma com um objetivo
 ---
 
 
-## 🔎 Tratamento de Dados
+## Tratamento de Dados
 
 O projeto inclui um **notebook em Python**, utilizado como etapa de **tratamento e normalização dos dados**.
 
@@ -58,7 +58,7 @@ Biblioteca utilizada: pandas
 
 ---
 
-## 🔄 Pipeline de Dados
+## Pipeline de Dados
 
 O fluxo de trabalho do projeto segue um pipeline da seguinte maneira:
 
